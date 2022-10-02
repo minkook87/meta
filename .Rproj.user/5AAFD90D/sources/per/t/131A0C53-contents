@@ -1,0 +1,19 @@
+--- 
+title: "Sysmatic review & Meta-analysis"
+author: "Minkook Son"
+date: "`r Sys.Date()`"
+output:
+  bookdown::gitbook:
+    split_by: section
+  bookdown::pdf_book: default
+documentclass: book
+bibliography:
+- book.bib
+- packages.bib
+description: null
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+site: bookdown::bookdown_site
+---
+
+# About {-}
