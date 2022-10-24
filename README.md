@@ -1,16 +1,4 @@
-Welcome! 
-
-This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). 
-
-This template provides a skeleton file structure that you can edit to create your book. 
-
-The contents inside the .Rmd files provide some pointers to help you get started, but feel free to also delete the content in each file and start fresh.
-
-Additional resources:
-
-The **bookdown** book: https://bookdown.org/yihui/bookdown/
-
-The **bookdown** package reference site: https://pkgs.rstudio.com/bookdown
-
-
-**메타분석** 교재 R bookdown 작성
+Systematic review and Meta-analysis
+==============================
+- 본 서적은 동아대학교 의과대학 **체계적 문헌고찰 및 메타분석**을 위해 제작된 **수업용 자료** 입니다.
+- 다양한 자료들의 내용을 참조하여 작성된 자료이니, 허락없이 배포하지 말아주시기 바랍니다.
