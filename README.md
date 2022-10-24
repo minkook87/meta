@@ -11,3 +11,6 @@ Additional resources:
 The **bookdown** book: https://bookdown.org/yihui/bookdown/
 
 The **bookdown** package reference site: https://pkgs.rstudio.com/bookdown
+
+
+**메타분석을 위한 패키지
